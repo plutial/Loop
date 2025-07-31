@@ -24,6 +24,10 @@ profile.cov
 go.work
 go.work.sum
 
+# Packages
+go.sum
+go.mod
+
 # env file
 .env
 
